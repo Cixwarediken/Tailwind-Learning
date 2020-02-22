@@ -1,0 +1,78 @@
+body{
+    background: rgb(81,81,81);
+background: linear-gradient(45deg, rgba(81,81,81,1) 0%, rgba(173,173,173,1) 10%, rgba(230,136,20,1) 14%, rgba(182,118,40,1) 21%, rgba(81,81,81,1) 39%, rgba(159,154,154,1) 52%, rgba(134,122,122,1) 58%, rgba(148,148,148,1) 85%, rgba(221,119,31,1) 93%, rgba(134,134,134,1) 95%, rgba(255,253,254,1) 100%);
+    color: white;
+    font-family: 'Girassol', Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.title
+{
+    font-family: 'Girassol', Arial, Helvetica, sans-serif;
+    color: #FFA502;
+}
+a{
+    color: white;
+    font-family: 'Rancho', Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+a:hover{
+    color: #FFA502;
+    font-size: larger;
+}
+h1
+{
+    font-size: xx-large;
+}
+h2
+{
+    
+}
+i{
+    color: #FFA502;
+}
+p{
+    font-size: large;
+    font-family: 'Satisfy',Arial, Helvetica, sans-serif;
+}
+.pn
+{
+    font-family: 'Amiri',Arial, Helvetica, sans-serif;
+}
+.hero
+{
+    height: 400px;
+    width: 700px
+}
+.fb
+{
+    color: #4267B2;
+}
+.twt
+{
+    color: #38A1F3;
+}
+.git
+{
+    color:#6e5494;
+}
+.lin
+{
+    color: #0077B5;
+}
+.submit
+{
+    background-color:#FFA502;
+    outline: none;
+}
+.submit:hover
+{
+    background-color: rgb(255, 251, 0);
+}
+.fut
+{
+    background-color: #FFA502;
+}
+.fut1
+{
+    color: #FFA502;
+}
